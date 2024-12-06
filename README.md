@@ -1,1 +1,1 @@
-![Image alt](https://github.com/EkaterinaTihonenko/oxyPreloader/blob/main/img/video.gif)
+![Image alt](https://github.com/EkaterinaTihonenko/BoxyPreloader/blob/main/img/video.gif)
